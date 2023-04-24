@@ -2,7 +2,7 @@
 This is the source codes for deep transfer learning of rock images.
 ## Preparation
     Python==3.7.3
-    Tensorflow-gpu==2.6
+    Tensorflow-gpu==2.6.0
     sklearn==1.0.2
 ## Running the code
 ### 1.Deep transfer learning of rock images
