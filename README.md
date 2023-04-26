@@ -1,7 +1,7 @@
 # rock-image-transfer-learning
 This is the source codes for deep transfer learning of rock images.
 
-```bibtex
+```bash
 @article{chen2023fslearning,
   title={Based on petrographic knowledge supervision the rock image few-shot learning},
   author={Chen Zhongliang,Yuan Feng, Li Xiaohui, Zhang Mingming, Zheng Chaojie},
