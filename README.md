@@ -8,7 +8,7 @@ This is the source codes for deep transfer learning of rock images.
 ### 1. Deep transfer learning of rock images
 Run '01_RockImageEpochTrain.py' python file. The training parameters are defined in the file "system.config".
 ### 2. Rock image dimensionality reduction visualization using t-SNE
-Run '02_rock_image_dataset_t-SNE.py' python file. The training parameters are defined in the system.config.
+Run '02_rock_image_dataset_t-SNE.py' python file. The training parameters are defined in the system.config. The t-Distributed Stochastic Neighbor Embedding (t-SNE) algorithm in the sklearn library was used to conduct dimensionality reduction visualization of rock images.
 ### 3. Extracting features from rock images
 Run '03_save_rock_images_features.py' python file. Parameters were setting in the function "parse_args".
 ## Contributing
